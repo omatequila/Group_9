@@ -1,0 +1,14 @@
+Aufgabe 2 - Warum haben Sie sich für Ihr Schema entschieden?
+
+Wir haben uns für folgendes Paket-Bennenungs-Schema entschieden:
+
+de.hs_mannheim.i.imb.ss16.tpe.group9.[Aufgabe_x]
+wobei [x] die jeweilige Nummerierung darstellt (z.B. "Aufgabe_1").
+
+
+
+Warum kommt es nicht zu Kollisionen mit anderen Gruppen und Entwicklern?
+Zuerst einmal legen wir "DE" für Deutschland fest, anschließend geben wir die Hochschule Mannheim an (oder Firmenname i.A.),
+dann beschränken wir uns mit "i" auf die Fakultät der Informatik und mit "IMB" geben wir den Studiengang an. Des Weiteren geben wir das
+aktuelle Semester mit Jahrenzahl an, den Kursname und unseren Gruppenname mit der jeweiligen Nummer. 
+
