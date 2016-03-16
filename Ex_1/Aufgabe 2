@@ -1,0 +1,10 @@
+Aufgabe 2 - Warum haben Sie sich für Ihr Schema entschieden?
+
+Wir haben uns für folgendes Paket-Bennenungs-Schema entschieden:
+-Gruppenname
+--Aufgabenname
+---Javaklassen
+
+Warum kommt es nicht zu Kollisionen mit anderen Gruppen und Entwicklern?
+Da jede Gruppe nur einmal auftritt, ist auch unser Paket eindeutig benannt.
+Wenn also jede Gruppe ihre Gruppennummer in ihrem Paket-Benennungs-Schema verwendet, kann es zu keiner Kollision kommen.
